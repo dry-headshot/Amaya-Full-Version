@@ -239,4 +239,4 @@ This repository serves as the official landing page for Amaya. The software is d
 **Get the most recent version of Amaya today!**
 
 ---
-**Last updated:** 2026-11-06 00:49:49 UTC
+**Last updated:** 2026-11-06 07:43:19 UTC
